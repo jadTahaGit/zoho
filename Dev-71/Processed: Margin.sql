@@ -53,6 +53,7 @@ LEFT JOIN "Projects" ON "Projects"."Id"  = "Invoices"."ProjectId"
 LEFT JOIN "Companies" ON "Companies"."Id"  = "Projects"."CompanyId" 
 LEFT JOIN "Config: Projekte" ON "Config: Projekte"."HQ_ProjectID"  = "Projects"."Id"  
 WHERE	 "Invoices"."Status"  != 'Draft'
+-- 3.sql
 UNION ALL
  SELECT
 		 "IncomingInvoices"."InvoiceDate" AS "DueDate",
@@ -78,6 +79,7 @@ FROM  "IncomingInvoices"
 LEFT JOIN "Projects" ON "Projects"."Id"  = "IncomingInvoices"."ProjectId" 
 LEFT JOIN "Companies" ON "Companies"."Id"  = "Projects"."CompanyId" 
 LEFT JOIN "Config: Projekte" ON "Config: Projekte"."HQ_ProjectID"  = "Projects"."Id"  
+-- 4.sql
 UNION ALL
  SELECT
 		 worklogs."DueDate" AS "DueDate",
