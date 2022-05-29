@@ -1,0 +1,24 @@
+SELECT
+			 CAST(plannedTime."Date" as date) AS "Date",
+			 plannedTime."UserName" AS "UserName",
+			 plannedTime."TaskId" AS "TaskId",
+			 0 AS "Original Estimate",
+			 CAST(plannedTime."AmountEachDay" as double precision) AS "Time Spent",
+			 plannedTime."Project" AS "Project",
+			 plannedTime."Status" AS "Status"
+	FROM  "Processed: PlannedTimes" AS  plannedTime 
+	FULL JOIN
+ 	(SELECT
+			 CAST(worklogs."Issue Due Date" as date) AS "Date",
+			 worklogs."UserName" AS "UserName",
+			 worklogs."Worklog Id" AS "TaskId",
+			 CAST(worklogs."Issue Original Estimate" as double precision) AS "Original Estimate",
+			 0 AS "Time Spent",
+			 worklogs."Project Name" AS "Project",
+			 0 AS "Status"
+	FROM  "Processed: Worklogs (Merged)" AS  worklogs
+    
+)AS fullJoined
+ 
+
+
