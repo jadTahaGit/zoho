@@ -9,11 +9,10 @@ SELECT DISTINCT
 		 projects."Kunde",
 		 projects."HQ_CompanyID",
 		CASE
-			WHEN (extract(year from worklogs."Work Date")  = '2022') THEN worklogs."Hours" * employee."2022_hrl_rate_for_hq"
-			WHEN (extract(year from worklogs."Work Date")  = '2021') THEN worklogs."Hours" * employee."2021_hrl_rate_for_hq"
-
-			 END AS "WorkExtern",
-		 worklogs."Hours" * (employee."hrl_rate_for_hq" / 8) AS "Amount",
+			WHEN (extract(year from worklogs."Work Date")  = '2022') THEN worklogs."Hours" * (employee."2022_hrl_rate_for_hq"/ 8)
+			WHEN (extract(year from worklogs."Work Date")  = '2021') THEN worklogs."Hours" * (employee."2021_hrl_rate_for_hq"/8)
+			ELSE worklogs."Hours" * (employee."2020_hrl_rate_for_hq"/ 8)
+			 END AS "Amount",
 		 worklogs."Hours" AS "Hours",
 		 employee."Name",
 		 employee."Unit",
