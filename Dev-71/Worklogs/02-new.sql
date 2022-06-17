@@ -8,6 +8,11 @@ SELECT DISTINCT
 		 projects."Projektmanager",
 		 projects."Kunde",
 		 projects."HQ_CompanyID",
+		CASE
+			WHEN (extract(year from worklogs."Work Date")  = '2022') THEN worklogs."Hours" * employee."2022_hrl_rate_for_hq"
+			WHEN (extract(year from worklogs."Work Date")  = '2021') THEN worklogs."Hours" * employee."2021_hrl_rate_for_hq"
+
+			 END AS "WorkExtern",
 		 worklogs."Hours" * (employee."hrl_rate_for_hq" / 8) AS "Amount",
 		 worklogs."Hours" AS "Hours",
 		 employee."Name",
@@ -28,7 +33,9 @@ SELECT DISTINCT
 		 worklogs."Staff Id",
 		 worklogs."Project Key",
 		 worklogs."Project Category",
-		 worklogs."Work Date" as "Work Date"
+		 worklogs."Work Date" as "Work Date",
+		 extract(year from worklogs."Work Date") as "Work Year"
+
 FROM  "Processed: Worklogs (Merged)" AS  worklogs
 LEFT JOIN "Config: Projekte" AS  projects ON worklogs."Project Key"  = projects."Projekt" 
 LEFT JOIN "Config: Mitarbeiter" AS  employee ON worklogs."Username"  = employee."Mitarbeiter" 
