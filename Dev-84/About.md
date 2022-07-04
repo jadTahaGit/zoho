@@ -9,3 +9,10 @@ One Lead has sometimes different Dates (The Old one and the new One). The Same h
 The Best Thing to Start with is Some Analysis For the Contacts(HubSpot) Table.
 
 Link: https://analytics.zoho.eu/workspace/7581000000002861/view/7581000007860118
+
+# Analysis
+
+- where is the Error?
+- How Many Companies are there? --> 3918 Companies
+- How many Leads are there?
+- How OPP are there?
