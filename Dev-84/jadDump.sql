@@ -7,7 +7,8 @@ SELECT companies."Company ID (Companies)",
                    ),
                'lead', 'marketingqualifiedlead', 'salesqualifiedlead', 'opportunity', 'customer'
            )
-           AS max_stage
+           AS max_stage,
+        GREATEST(COALESCE(MAX(companies."Became MQL (Companies)"),0), COALESCE(MAX(companies."Became MQL (Contacts)"),0) ) AS "MQL Company"
 FROM  "Processed: all phases (Contacts & Companies)" as companies
 GROUP BY companies."Company ID (Companies)"
 
