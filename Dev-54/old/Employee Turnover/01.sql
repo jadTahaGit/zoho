@@ -33,4 +33,4 @@ SELECT
 FROM  "Processed: PlannedTimes" AS  plannedTime ,
 "Seniority - Hourly Rate" AS seniorityTable,
 "Seniority per Username" as unSeniority
-WHERE plannedTime."Date" < today() +183 
+WHERE plannedTime."Date" < today() +183 AND plannedTime."Date" > today()-30
