@@ -1,5 +1,5 @@
 SELECT
-		 ELT(GREATEST(MAX(FIELD(targetTable."Lifecycle Stage (Companies)", '', 'evangelist', 'other', 'lead', 'marketingqualifiedlead', 'salesqualifiedlead', 'opportunity', 'customer', 'subscriber')), MAX(FIELD(targetTable."Lifecycle Stage (Contacts)", '', 'evangelist', 'other', 'lead', 'marketingqualifiedlead', 'salesqualifiedlead', 'opportunity', 'customer', 'subscriber'))), 'other', 'other', 'other', 'lead', 'marketingqualifiedlead', 'salesqualifiedlead', 'opportunity', 'customer', 'subscriber') AS "Lifecycle Stage"AS "Date",
+		 MAX(targetTable."Date") AS "Date",
 		 targetTable."Company ID (Companies)" AS "Company ID",
 		 MAX(targetTable."Company Name (Companies)") AS "Company Name",
 		 MAX(targetTable."Number of Associated Contacts (Companies)") AS "Number of Associated Contacts",
