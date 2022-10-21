@@ -21,7 +21,7 @@ SELECT
 FROM (	SELECT
 			 users2."Name" AS "Name",
 			 users2."Mitarbeiter" AS "UserName",
-			 users2."HQ_UserId" AS "Id",
+			 IFNULL(users2."HQ_UserId", users3."ID") AS "Id",
 			 users2."EntryDate" AS "EntryDate",
 			 users2."ExitDate" AS "LeavingDate",
 			 users2."Status" AS "Status",
@@ -41,6 +41,7 @@ FROM (	SELECT
 				 END AS "UserWorkingHours",
 			 users2."Land" AS "Country"
 	FROM  "Config: Mitarbeiter" AS  users2
+	JOIN "Users" AS users3 ON users2."Mitarbeiter" = users3."UserName"
 CROSS JOIN "DateTable" AS  dates2 
 	WHERE	 day_of_week(dates2."Date")  != 1
 	 AND	day_of_week(dates2."Date")  != 7
