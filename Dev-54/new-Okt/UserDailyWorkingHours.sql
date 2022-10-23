@@ -41,7 +41,7 @@ FROM (	SELECT
 				 END AS "UserWorkingHours",
 			 users2."Land" AS "Country"
 	FROM  "Config: Mitarbeiter" AS  users2
-	JOIN "Users" AS users3 ON users2."Mitarbeiter" = users3."UserName"
+	LEFT JOIN "Users" AS users3 ON users2."Mitarbeiter" = users3."UserName"
 CROSS JOIN "DateTable" AS  dates2 
 	WHERE	 day_of_week(dates2."Date")  != 1
 	 AND	day_of_week(dates2."Date")  != 7
@@ -51,6 +51,8 @@ CROSS JOIN "DateTable" AS  dates2
 			 ELSE add_year(getdate(), -1)
 		 END  AND  add_year(getdate(), 2)
 ) AS  users
+
+
 LEFT JOIN(	SELECT
 			 absences."UserId" AS UserId,
 			 dates."Date" AS Date,
