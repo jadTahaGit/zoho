@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Project.id>10015</Project.id>
+    <Project.name>Best Partners AG - PIM Discovery</Project.name>
+    <Project.lead>63203b0b051efc698566c21e</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>BPAPD</Project.key>
+    <Project.counter>0</Project.counter>
+    <Project.assigneetype>2</Project.assigneetype>
+    <Project.avatar>10402</Project.avatar>
+    <Project.originalkey>BPAPD</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme>10006</Project.issuesecurityscheme>
+    <Project.notificationscheme>10007</Project.notificationscheme>
+    <Project.permissionscheme>10008</Project.permissionscheme>
+    <Project.workflowscheme>10017</Project.workflowscheme>
+    <Project.projectcategory>10000</Project.projectcategory>
+    <Project.fieldlayoutscheme>10008</Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10013</Project.issuetypescreenscheme>
+    <Project.created>2022-10-24 07:04:17.333438</Project.created>
+    <Project.updated>2022-10-25 07:31:46.697422</Project.updated>
+    <Project.simplified>true</Project.simplified>
+    <Project.project_configuration_id>7</Project.project_configuration_id>
+    <Project.external_uuid>58a42b3b-61e8-4051-8cab-f74f17c95489</Project.external_uuid>
+    <Project.status>deleted</Project.status>
+    <Project.statusChangedDate>2022-10-25 07:31:47.0</Project.statusChangedDate>
+    <Project.statusChangedBy>63203b0b051efc698566c21e</Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10005</Project.id>
+    <Project.name>Weinmann &amp; Schanz MVP &quot;E27&quot;</Project.name>
+    <Project.lead>ug:1f793588-2ca4-41d9-a755-153928841153</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>WS</Project.key>
+    <Project.counter>627</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10555</Project.avatar>
+    <Project.originalkey>WS</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme>10003</Project.issuesecurityscheme>
+    <Project.notificationscheme>10004</Project.notificationscheme>
+    <Project.permissionscheme>10004</Project.permissionscheme>
+    <Project.workflowscheme>10005</Project.workflowscheme>
+    <Project.projectcategory>10000</Project.projectcategory>
+    <Project.fieldlayoutscheme>10003</Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10004</Project.issuetypescreenscheme>
+    <Project.created>2022-05-05 08:45:55.567186</Project.created>
+    <Project.updated>2022-11-11 14:39:07.771268</Project.updated>
+    <Project.simplified>true</Project.simplified>
+    <Project.project_configuration_id>4</Project.project_configuration_id>
+    <Project.external_uuid>17b644b2-1729-4fe8-93f6-1e13862c5f65</Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10004</Project.id>
+    <Project.name>Lisa Test Team managed</Project.name>
+    <Project.lead>ug:295d1774-bbb6-43ae-b70c-eec3c25a3b3f</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>LTTM</Project.key>
+    <Project.counter>159</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10408</Project.avatar>
+    <Project.originalkey>LTTM</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme>10002</Project.issuesecurityscheme>
+    <Project.notificationscheme>10003</Project.notificationscheme>
+    <Project.permissionscheme>10003</Project.permissionscheme>
+    <Project.workflowscheme>10004</Project.workflowscheme>
+    <Project.projectcategory>10002</Project.projectcategory>
+    <Project.fieldlayoutscheme>10002</Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10003</Project.issuetypescreenscheme>
+    <Project.created>2022-03-22 09:56:34.869377</Project.created>
+    <Project.updated>2022-07-21 12:52:01.185463</Project.updated>
+    <Project.simplified>true</Project.simplified>
+    <Project.project_configuration_id>3</Project.project_configuration_id>
+    <Project.external_uuid>83459369-f805-4584-a1f8-c56b0905f666</Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10018</Project.id>
+    <Project.name>Atlassian Cloud Migration</Project.name>
+    <Project.lead>ug:295d1774-bbb6-43ae-b70c-eec3c25a3b3f</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>ACM</Project.key>
+    <Project.counter>13</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10408</Project.avatar>
+    <Project.originalkey>ACM</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10020</Project.workflowscheme>
+    <Project.projectcategory>10002</Project.projectcategory>
+    <Project.fieldlayoutscheme></Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10016</Project.issuetypescreenscheme>
+    <Project.created>2022-11-03 08:23:38.045858</Project.created>
+    <Project.updated>2022-11-11 12:44:33.554829</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10003</Project.id>
+    <Project.name>Lisa Test company managed</Project.name>
+    <Project.lead>ug:295d1774-bbb6-43ae-b70c-eec3c25a3b3f</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>LT</Project.key>
+    <Project.counter>4</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10423</Project.avatar>
+    <Project.originalkey>LT</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10003</Project.workflowscheme>
+    <Project.projectcategory>10002</Project.projectcategory>
+    <Project.fieldlayoutscheme></Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10002</Project.issuetypescreenscheme>
+    <Project.created>2022-03-22 09:40:57.517575</Project.created>
+    <Project.updated>2022-07-21 11:36:31.153769</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10007</Project.id>
+    <Project.name>Management </Project.name>
+    <Project.lead>ug:295d1774-bbb6-43ae-b70c-eec3c25a3b3f</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>MAN</Project.key>
+    <Project.counter>23</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10407</Project.avatar>
+    <Project.originalkey>MN</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10007</Project.workflowscheme>
+    <Project.projectcategory>10002</Project.projectcategory>
+    <Project.fieldlayoutscheme></Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10006</Project.issuetypescreenscheme>
+    <Project.created>2022-05-12 12:16:32.364896</Project.created>
+    <Project.updated>2022-07-21 12:52:19.84962</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10020</Project.id>
+    <Project.name>Aboutwaves</Project.name>
+    <Project.lead>ug:08efb5fd-430d-452d-9bf5-ad7e7f544327</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>ABWP</Project.key>
+    <Project.counter>4410</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10412</Project.avatar>
+    <Project.originalkey>ABW</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10008</Project.notificationscheme>
+    <Project.permissionscheme>10010</Project.permissionscheme>
+    <Project.workflowscheme>10022</Project.workflowscheme>
+    <Project.projectcategory>10000</Project.projectcategory>
+    <Project.fieldlayoutscheme>10009</Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10018</Project.issuetypescreenscheme>
+    <Project.created>2022-11-03 13:13:34.264556</Project.created>
+    <Project.updated>2022-11-11 13:14:12.54787</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10008</Project.id>
+    <Project.name>Brewes</Project.name>
+    <Project.lead>5dde4461b95b180d17cee0f2</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>BREW</Project.key>
+    <Project.counter>255</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10405</Project.avatar>
+    <Project.originalkey>BREW</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10009</Project.workflowscheme>
+    <Project.projectcategory>10000</Project.projectcategory>
+    <Project.fieldlayoutscheme>10006</Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10007</Project.issuetypescreenscheme>
+    <Project.created>2022-07-12 08:31:12.783631</Project.created>
+    <Project.updated>2022-11-11 13:38:17.361732</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10011</Project.id>
+    <Project.name>W&amp;S New</Project.name>
+    <Project.lead>ug:295d1774-bbb6-43ae-b70c-eec3c25a3b3f</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>WN</Project.key>
+    <Project.counter>3</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10412</Project.avatar>
+    <Project.originalkey>WN</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10012</Project.workflowscheme>
+    <Project.projectcategory></Project.projectcategory>
+    <Project.fieldlayoutscheme></Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10010</Project.issuetypescreenscheme>
+    <Project.created>2022-09-16 13:05:03.701634</Project.created>
+    <Project.updated>2022-09-29 14:07:28.430326</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>deleted</Project.status>
+    <Project.statusChangedDate>2022-09-29 14:07:28.0</Project.statusChangedDate>
+    <Project.statusChangedBy>5b6bef82b0c3083d8ffbd92b</Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10010</Project.id>
+    <Project.name>Basler PIM Discovery</Project.name>
+    <Project.lead>63203b0b051efc698566c21e</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>BPIMD</Project.key>
+    <Project.counter>33</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10401</Project.avatar>
+    <Project.originalkey>BPIM</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10011</Project.workflowscheme>
+    <Project.projectcategory>10000</Project.projectcategory>
+    <Project.fieldlayoutscheme></Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10009</Project.issuetypescreenscheme>
+    <Project.created>2022-09-13 08:04:44.469519</Project.created>
+    <Project.updated>2022-10-11 06:32:16.823279</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10016</Project.id>
+    <Project.name>Best Partners AG_PIM Discovery</Project.name>
+    <Project.lead>63203b0b051efc698566c21e</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>BESTPIM</Project.key>
+    <Project.counter>6</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10409</Project.avatar>
+    <Project.originalkey>BESTPIM</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10018</Project.workflowscheme>
+    <Project.projectcategory>10000</Project.projectcategory>
+    <Project.fieldlayoutscheme></Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10014</Project.issuetypescreenscheme>
+    <Project.created>2022-10-25 07:33:14.009952</Project.created>
+    <Project.updated>2022-11-02 16:23:18.775942</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10012</Project.id>
+    <Project.name>Weinmann &amp; Schanz Main Shop </Project.name>
+    <Project.lead>ug:1f793588-2ca4-41d9-a755-153928841153</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>WSMS</Project.key>
+    <Project.counter>58</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10556</Project.avatar>
+    <Project.originalkey>WSMS</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10009</Project.workflowscheme>
+    <Project.projectcategory>10000</Project.projectcategory>
+    <Project.fieldlayoutscheme>10007</Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10010</Project.issuetypescreenscheme>
+    <Project.created>2022-10-13 13:45:09.776593</Project.created>
+    <Project.updated>2022-10-25 09:18:09.08162</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10019</Project.id>
+    <Project.name>HR_Arbeitsschutz</Project.name>
+    <Project.lead>ug:675621ac-56a5-4718-80a1-2c580eef7e82</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>MWAR</Project.key>
+    <Project.counter>55</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10411</Project.avatar>
+    <Project.originalkey>MWAR</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10008</Project.notificationscheme>
+    <Project.permissionscheme>10009</Project.permissionscheme>
+    <Project.workflowscheme>10021</Project.workflowscheme>
+    <Project.projectcategory>10002</Project.projectcategory>
+    <Project.fieldlayoutscheme>10009</Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10017</Project.issuetypescreenscheme>
+    <Project.created>2022-11-03 09:14:19.97378</Project.created>
+    <Project.updated>2022-11-03 09:14:23.418197</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10013</Project.id>
+    <Project.name>Design Test Project</Project.name>
+    <Project.lead>5dde4461b95b180d17cee0f2</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>DTP</Project.key>
+    <Project.counter>1</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10417</Project.avatar>
+    <Project.originalkey>DTP</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10016</Project.workflowscheme>
+    <Project.projectcategory>10000</Project.projectcategory>
+    <Project.fieldlayoutscheme></Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10011</Project.issuetypescreenscheme>
+    <Project.created>2022-10-14 11:32:30.428006</Project.created>
+    <Project.updated>2022-10-14 12:58:32.067159</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10014</Project.id>
+    <Project.name>UX/UI Design Project</Project.name>
+    <Project.lead>5dde4461b95b180d17cee0f2</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>UDP</Project.key>
+    <Project.counter>0</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10425</Project.avatar>
+    <Project.originalkey>UDP</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10016</Project.workflowscheme>
+    <Project.projectcategory>10000</Project.projectcategory>
+    <Project.fieldlayoutscheme></Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10011</Project.issuetypescreenscheme>
+    <Project.created>2022-10-14 12:38:42.522008</Project.created>
+    <Project.updated>2022-10-14 12:58:57.282233</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>active</Project.status>
+    <Project.statusChangedDate></Project.statusChangedDate>
+    <Project.statusChangedBy></Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+  <row>
+    <Project.id>10017</Project.id>
+    <Project.name>Best Partners PIM Discovery</Project.name>
+    <Project.lead>63203b0b051efc698566c21e</Project.lead>
+    <Project.description></Project.description>
+    <Project.key>BPPD</Project.key>
+    <Project.counter>0</Project.counter>
+    <Project.assigneetype>3</Project.assigneetype>
+    <Project.avatar>10419</Project.avatar>
+    <Project.originalkey>BPPD</Project.originalkey>
+    <Project.projecttype>software</Project.projecttype>
+    <Project.issuesecurityscheme></Project.issuesecurityscheme>
+    <Project.notificationscheme>10000</Project.notificationscheme>
+    <Project.permissionscheme>10002</Project.permissionscheme>
+    <Project.workflowscheme>10019</Project.workflowscheme>
+    <Project.projectcategory></Project.projectcategory>
+    <Project.fieldlayoutscheme></Project.fieldlayoutscheme>
+    <Project.issuetypescreenscheme>10015</Project.issuetypescreenscheme>
+    <Project.created>2022-10-27 08:26:18.971806</Project.created>
+    <Project.updated>2022-11-07 13:16:26.928975</Project.updated>
+    <Project.simplified>false</Project.simplified>
+    <Project.project_configuration_id></Project.project_configuration_id>
+    <Project.external_uuid></Project.external_uuid>
+    <Project.status>deleted</Project.status>
+    <Project.statusChangedDate>2022-11-07 13:16:27.0</Project.statusChangedDate>
+    <Project.statusChangedBy>63203b0b051efc698566c21e</Project.statusChangedBy>
+    <Project.classificationTags>[]</Project.classificationTags>
+    <Project.url></Project.url>
+  </row>
+</root>
